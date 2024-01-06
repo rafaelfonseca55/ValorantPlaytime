@@ -43,4 +43,4 @@ client.on('ready', async () => {
     }, 60000); // check every minute
 });
 
-client.login('MTE5Mjg3OTk4MzY4MTYwOTgzOQ.GvEyUf.dWK_GRgYZHORyoYCSdFZ2hZeAplLBIvzemkmC4'); // BOT TOKEN
+client.login('MTE5Mjg3OTk4MzY4MTYwOTgzOQ.G_8yXI.5WH5739eWkm8UEIbGp3Z4up95MeHzaQt86YeJM'); // BOT TOKEN
